@@ -1,0 +1,48 @@
+.boton{
+    border-radius: 10px;
+    padding: 6px 6px 6px 6px;
+    cursor: pointer;
+    border: 9px solid transparent;
+    transition-property: background-color, color,border;
+    transition-duration: 0.4s;
+    position: relative;
+    top: 254px;
+    right: 7px;
+ 
+}
+
+
+.boton:hover{
+    background-color: transparent;
+    color: #fff;
+    border: 3px solid #fff;
+    
+}
+
+.text{
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    position: relative;
+    top: 234px;
+    right: 0px;
+}
+
+.logo{
+    text-align: center;
+    position: relative;
+    top: -170px;
+    right: -570px;
+    width: 300px;
+}
+.olv{
+    position: relative;
+    top: 180px;
+}
+select{
+    position: relative;
+    top: 138px;
+    width: 145px;
+    height: 25px;
+    border-radius: 30px;
+}
